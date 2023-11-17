@@ -44,6 +44,14 @@ fique a vontade para me seguir e acompanhar meus futuros projetos
 
   
 </div>
+<div>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=porrtuguinha&show_icons=true&theme=dark)
+
+
+  
+</div>
 
 
 
