@@ -47,9 +47,7 @@ fique a vontade para me seguir e acompanhar meus futuros projetos
 <div>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=porrtuguinha&show_icons=true&theme=dark)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porrtuguinha)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
