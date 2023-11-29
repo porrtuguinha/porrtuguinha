@@ -28,7 +28,7 @@ fique a vontade para me seguir e acompanhar meus futuros projetos
   
   
   ![xbox logo](https://github.com/porrtuguinha/porrtuguinha/assets/132089158/97b9c0ca-f6d3-4eda-a73e-4c9dfc2023e8)       
-  <p>porrtuguinha</p>
+  <a href = "https://www.trueachievements.com/gamer/porrtuguinha">porrtuguinha</a>
   
 
 
@@ -38,7 +38,8 @@ fique a vontade para me seguir e acompanhar meus futuros projetos
 
 
   ![logoplaystation2](https://github.com/porrtuguinha/porrtuguinha/assets/132089158/d7c86eae-69d8-479e-be7e-a9009971a877)
- <p>porrrtuguinha</p>
+  
+  <a href = "https://psnprofiles.com/porrrtuguinha">porrrtuguinha</p>
 
 
 
