@@ -56,4 +56,10 @@ fique a vontade para me seguir e acompanhar meus futuros projetos
 
 
 
-![renGif](https://github.com/porrtuguinha/porrtuguinha/assets/132089158/625a53ad-d618-48bd-a4d6-17d0ccd17cc9)
+
+![satoruGif](https://github.com/porrtuguinha/porrtuguinha/assets/132089158/66eb1bfb-926f-4ce3-8338-0cd856871ab7)
+
+
+
+
+
