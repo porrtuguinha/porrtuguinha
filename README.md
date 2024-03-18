@@ -36,7 +36,7 @@ fique a vontade para me seguir e acompanhar meus futuros projetos
 
 
 
-![yu-narukami-persona](https://github.com/porrtuguinha/porrtuguinha/assets/132089158/7b56a4b3-979e-4cb8-9730-92cdd1482aa7)
+![satoruGif](https://github.com/porrtuguinha/porrtuguinha/assets/132089158/a045ef7f-bf47-4f75-8385-f7a82db6bd9f)
 
 
 
